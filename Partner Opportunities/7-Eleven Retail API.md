@@ -1,3 +1,7 @@
+**June 09, 2026**
+Green Dot: Danon, Shane, Taylor, Srikala
+7-Eleven: Chad, Veena, Shiva, Jithesh
+
 **June 8, 2026**
 [Danon, Taylor]
 
