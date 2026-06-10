@@ -1,3 +1,35 @@
+**June 09, 2026** Internal post-call sync
+[Shannon]
+
+- why did we have to settle on the gift card purchase option? 
+	- when we sold it to them we told them we could use AFT or ACH for in 
+	- ECOM is live today; AFT is not 
+	- we told them we'd do 110 bps and work with the network to negotiate better rates
+	- ECOM 2% debit - 3% credit
+	- for self-funding - we could launch with ECOM but the pricing was way too high - they built their model based on AFT 
+	- Pathward / Fiserv - merchant acquirer for this 
+	- Teresa flagged that Visa didn't give us approval to do AFT in for non-reloadable gift cards
+	- you can't do AFT in on non-reloadable gift cards - "Toast lost their shit"
+	- to make it up for them - we gave them rock bottom pricing and reduced platform fee
+	- 
+
+**June 09, 2026** - Mastercard Private Label Overview
+Mastercard: Antonio
+Green Dot: Shannon, Adam, Adriana, Taylor
+
+- there's also an opportunity for Meijer here ... 
+- Antonio - we can start a program out as PVL and upgrade it to prepaid or debit 
+- no special requirements on the acquiring side - cards "just work"
+- tokenization is a differentiator here 
+- Issuer processor is responsible for limiting acceptance 
+- standard interchange is based on product code / MCC combination
+	- MC would use an existing prepaid product code that would drive IX calculation
+	- Bilateral Interchange Agreement 
+- regarding KYC - "we're always willing to evaluate variances"
+- Antonio - we would have to go back to our compliance team and take this case to skip KYC - but we want to do it and work through it with you
+- I gave him the Toast & Starbucks example... what we're trying to do. Antonio gets it (I think)
+
+
 **5/29/26** - Internal
 [Internal Follow up - Shannon, Pawel, Taylor]
 
