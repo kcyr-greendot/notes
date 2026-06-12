@@ -1,3 +1,10 @@
+**June 11, 2026**
+Green Dot: Shane, Danon, Michelle, Wayne, Taylor
+7-Eleven: Jason, Jithesh, Srikanth, 
+
+- Wayne presenting architecture diagram and network configurations 
+- 
+
 **June 09, 2026**
 Green Dot: Danon, Shane, Taylor, Srikala
 7-Eleven: Chad, Veena, Shiva, Jithesh
