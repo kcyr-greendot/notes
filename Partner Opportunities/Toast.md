@@ -1,3 +1,10 @@
+**June 15, 2026**
+[Ray, Adriana, Shannon, Taylor]
+
+- Ray's daughter is getting married this weekend 
+- we need to provide a summary for what we're trying to do with Toast and send to MC
+- tightening up the slides to share with Mastercard
+
 **June 09, 2026** Internal post-call sync
 [Shannon]
 
@@ -11,7 +18,6 @@
 	- Teresa flagged that Visa didn't give us approval to do AFT in for non-reloadable gift cards
 	- you can't do AFT in on non-reloadable gift cards - "Toast lost their shit"
 	- to make it up for them - we gave them rock bottom pricing and reduced platform fee
-	- 
 
 **June 09, 2026** - Mastercard Private Label Overview
 Mastercard: Antonio
