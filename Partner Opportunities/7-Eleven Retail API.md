@@ -1,3 +1,8 @@
+**June 16, 2026**
+[Shane, Kevin, Jason H, Wayne, Everett, Mani, Daniel Suarez]
+
+- 
+
 **June 12, 2026** - Voids
 Green Dot: Shane, Srikala, Tammina, Danon
 7-Eleven: Jithesh, Veena, Shiva 
