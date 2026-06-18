@@ -1,3 +1,15 @@
+**June 17, 2026**
+- BankSocial - it's essentially P2P as a service
+	- [ ] create collateral for this offering - use Disbursements sell sheet as a model
+- need pricing and "receipt control" details for cash in costs at all retailers 
+	- [ ] research and put together some collateral 
+	- Taylor will send me links to work with 
+	- Michelle Ngo and Everett are great contacts for this 
+- Taylor working with Danon on 7-Eleven phasing requirements
+- we're going to be in Dave Harden's org for a little while ... probably going to David K until merger settles
+- 
+
+
 **June 10, 2026**
 - quick review of Chase Bill Pay API doc
 - merger is not going to close this month - but not likely to be at risk 
@@ -5,7 +17,7 @@
 - Melissa will be leaving the company ... 
 - who do we report to? 
 - most of product is going to Dave H
-- 
+
 
 **5/27/26**
 

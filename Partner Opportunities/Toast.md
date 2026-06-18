@@ -1,3 +1,22 @@
+**June 17, 2026**
+Green Dot: Ray, Adriana, Shannon, Taylor
+Toast: Fergal, Mini
+
+- update from us to Toast on where we're at
+	- if you want to make it open loop ... you'll need to do KYC
+	- Mastercard wants email / phone number - Fergal says no problem, we already have it for a Toast local user anyway.
+	- Mini: can we upgrade a user from closed loop to full open loop?
+		- yes, probably - we can work that out with Mastercard
+	- **AFT pull from debit**  -> still open question of can we do this without KYC
+		- Taylor thinks that Toast being a merchant aggregator unlocks the ability to do AFT
+	- Fergal would like to push the limit as high as possible (within FinCEN)
+	- Fergal: Ideally we can get past the aggregated gift card construct
+
+> [!Fergal]
+> "it could be dead on arrival if we're stuck to the gift card model"
+
+- Shannon: next step is to run this past Mastercard and try to finalize
+
 **June 15, 2026**
 [Ray, Adriana, Shannon, Taylor]
 
