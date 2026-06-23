@@ -1,6 +1,6 @@
 **June 17, 2026**
 EliseAI: Logan, Keith
-Green Dot: 
+Green Dot: Frank, Taylor
 
 - don't want to commingle funds - straight to a bank account
 - expect funds to settle to property's bank account, not property manager
