@@ -1,3 +1,33 @@
+**June 23, 2026** - 
+7-Eleven: Jithesh, Shiva, Chad
+Green Dot: Shane, Danon, Everett, Christina, Tammina
+
+- Void / Return scenario
+	- Danon: we're going to gather more data to determine if we actually support the Return scenario today
+	- Jithesh: do we have this currently with InComm today? 
+		- Danon: i think this might be supported in teh InComm API today because they also sell gift cards but wouldn't be supported for prepaid cards
+		- Christina: confirmed, we don't support that Return scenario for Prepaid
+		- Everett: we tell Retail Partners to direct the customers to Green Dot in this scenario
+	- Shiva - Void within the funding timeout window 
+		- Reversal - got a timeout in hitting the Green Dot API - 7-E wants to reverse & retry the transaction
+- Shiva - there ARE load voids happening at 7-Eleven ... but we need to verify if they are specifically InComm products. 
+	- some of them look like immediate "change of mind" txns at the point of sale
+
+Voids - internal follow-up
+[Taylor, Danon, Shane]
+
+- Taylor: feels like this is a practical occurence, not a conceptual anticipation 
+- Danon: we have Returns through Incomm but not sure it works the way they're thinking
+- Taylor confirmed that the current Incomm spec has a "return" call - but we think that's actually more like a "void"
+	- key thing is - you can't Return a card that has been loaded and activated 
+- i think it's a matter of different terminology: 
+	- Reversal - cancel the current or just completed transaction
+	- Void - cancel the order, reverse the txn and get rid of the card - it should not be re-usable
+	- Return - bring a card back to the store, get your funds back and card is voided
+- we don't / won't support a Return
+	- Taylor's suggestion is to get information from Everett about if we actually see this scenario in real life
+
+
 **June 16, 2026**
 [Shane, Kevin, Jason H, Wayne, Everett, Mani, Daniel Suarez]
 
