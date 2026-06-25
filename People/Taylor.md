@@ -1,12 +1,19 @@
+**June 24, 2026**
+- Reviewing [GDN Cheat Sheet ](https://greendot.atlassian.net/wiki/spaces/PSE/pages/2500887113/GDN+Retail+Partner+Fees+Features+Cheat+Sheet?atl_p=eyJpIjoiZDE4ZmUxNTQtYTlkMi01N2M4LTZmZjAtOThjNGIyN2Q1N2U0IiwidCI6ImJvdHRvbVZpZXdDb250YWluZXIiLCJzb3VyY2UiOiJlbWFpbCIsImUiOiJjYy1ub3RpZmljYXRpb25zX2JhdGNoX3VwZGF0ZSJ9)
+	- good opportunity to work with Nicholas to put some more content together for customers/partners
+	- "we don't have a Project 30 for GDN / Money Movement"
+	- [eCash Universe](https://greendot.atlassian.net/wiki/spaces/GDN/pages/95715654/eCash+Universe)
+- [ ] what's the desired end state 
+
 **June 17, 2026**
 - BankSocial - it's essentially P2P as a service
 	- [ ] create collateral for this offering - use Disbursements sell sheet as a model
 - need pricing and "receipt control" details for cash in costs at all retailers 
-	- [ ] research and put together some collateral 
+	- [x] research and put together some collateral 
 	- Taylor will send me links to work with 
 	- Michelle Ngo and Everett are great contacts for this 
 - Taylor working with Danon on 7-Eleven phasing requirements
-- we're going to be in Dave Harden's org for a little while ... probably going to David K until merger settles
+- we're going to be in Dave Harden's org for a little while ... probably not going to David K until merger settles
 - 
 
 

@@ -1,3 +1,6 @@
+**June 24, 2026** - 
+[Nikhil, Megan]
+
 **June 17, 2026**
 Green Dot: Ray, Adriana, Shannon, Taylor
 Toast: Fergal, Mini
