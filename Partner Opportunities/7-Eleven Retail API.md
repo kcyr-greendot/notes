@@ -1,3 +1,16 @@
+**June 25, 2026**
+7-Eleven: Steve, Jithesh, Willie
+Green Dot: Shane, Taylor, Danon, Wayne
+
+- Steve has been at 7-Eleven for only 4 months
+- 7-E architecture meeting yesterday
+	- concerns raised about "inefficient routing" (store -> data center -> Green Dot -> data center -> store)
+	- the team prefers a "site-to-site" connection
+- Wayne - APIM gateway is internet-facing only - no alternative that is "internal facing"
+- ![[Screenshot 2026-06-25 at 12.12.26 PM.png|297]]![[Screenshot 2026-06-25 at 12.11.45 PM.png|415]]
+
+- 
+
 **June 23, 2026** - 
 7-Eleven: Jithesh, Shiva, Chad
 Green Dot: Shane, Danon, Everett, Christina, Tammina
