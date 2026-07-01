@@ -1,3 +1,19 @@
+**June 30, 2026**
+7-Eleven: Jithesh, Siva, Veena
+Green Dot: Shane, Veronica, Everett, Sean, Tammina
+
+- no Srikala today - so we don't the right people for void / timeout conversation 
+- we got what we needed out of networking conversation last week 
+- Veena: 
+	- void is a customer-initiated transaction that we support today - including for one of the Green Dot products
+	- we must have a timeout reversal 
+	- we need all of your products to support void - and if any don't, let us know which don't
+	- timeout reversal - we send a request, we don't hear back from Green Dot, we initiate a reversal 
+		- this is a requirement so we don't have unreconciled transactions
+- Sean: 
+	- we do have a story in for this
+	- 
+
 **June 25, 2026**
 7-Eleven: Steve, Jithesh, Willie
 Green Dot: Shane, Taylor, Danon, Wayne
