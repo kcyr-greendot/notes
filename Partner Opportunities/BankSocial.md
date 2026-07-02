@@ -1,3 +1,10 @@
+**July 01, 2026**
+[Frank, Michelle, Taylor, Ray]
+
+- OCT - best approach is to optimize Mastercard (better rates)
+- OCT fees are capped, AFT are not (% of txn)
+- Uber & Dayforce use OCT 
+
 **June 17, 2026**
 BankSocial: Eric
 Green Dot: Frank, Taylor

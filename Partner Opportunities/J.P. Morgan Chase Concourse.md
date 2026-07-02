@@ -1,3 +1,18 @@
+**July 01, 2026**
+JPMC: Harsh
+Green Dot: Taylor, Tammina 
+
+- Harsh: "The Solution Guide is great- very useful for us as we build out our documentation"
+	- working through how to do reconciliation
+	- no asks for us at this time
+- Tammina - what authentication method do you want to use? 
+	- certificates preferred
+- workstreams - we're talking with Walmart about $2.95 fee price point
+- actions required by the Consumers? 
+	- the only one imposed by some retailers is to show ID for loads over a certain limit
+- do you impose operational requirements re: KYC on the billers? 
+	- no - JPMC does KYB/C on them, they own the risk with the end customers
+
 **June 17, 2026**
 JPMC: Harsh, Ashok
 Green Dot: Tammina, Taylor

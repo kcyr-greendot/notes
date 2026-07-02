@@ -1,3 +1,8 @@
+**July 01, 2026**
+3 goals for Meijer: 
+1. become a Green Dot retailer (via BHN integration)
+2. provide a closed loop account for Meijer 
+
 **June 24, 2026**
 - Reviewing [GDN Cheat Sheet ](https://greendot.atlassian.net/wiki/spaces/PSE/pages/2500887113/GDN+Retail+Partner+Fees+Features+Cheat+Sheet?atl_p=eyJpIjoiZDE4ZmUxNTQtYTlkMi01N2M4LTZmZjAtOThjNGIyN2Q1N2U0IiwidCI6ImJvdHRvbVZpZXdDb250YWluZXIiLCJzb3VyY2UiOiJlbWFpbCIsImUiOiJjYy1ub3RpZmljYXRpb25zX2JhdGNoX3VwZGF0ZSJ9)
 	- good opportunity to work with Nicholas to put some more content together for customers/partners
