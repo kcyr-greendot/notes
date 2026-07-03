@@ -1,3 +1,11 @@
+**July 02, 2026**
+
+- Taylor's idea: get together a "tiger team" - Taylor, Christina C, Chrissy C, Michelle, Adam Evans, Everett, etc. to review GDN assets and materials 
+	- Taylor will work on this
+	- Taylor will ask Akhil if we can be more directive with requests to Nicholas
+- [ ] put together to-do list for documentation needs 
+- [ ] run through Taylor feedback on Retailer cheat sheet doc
+
 **July 01, 2026**
 3 goals for Meijer: 
 1. become a Green Dot retailer (via BHN integration)
