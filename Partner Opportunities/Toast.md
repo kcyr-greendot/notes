@@ -1,5 +1,18 @@
-**June 24, 2026** - 
+**July 06, 2026**
+[Adriana, Shannon, Ray, Justin, Taylor, Shane, Akhil, Jessica Zhu]
+
+- Fergal shared volume estimates, reviewing with Shane
+- 
+
+**June 24, 2026** 
 [Nikhil, Megan]
+
+- let's just say... Nihil and Megan are not keen to explore this right now. 
+- the ask: can we support a "quasi-closed-loop card" using MID whitelisting (i.e. whitelist only Toast MIDs)
+- where we left it: 
+	- Megan confirmed that it would require product work to do this 
+	- we would need a research spike (which we don't have capacity for) just to figure out what effort it would take 
+	- they were very guarded about not committing to this unless the product council approved it
 
 **June 17, 2026**
 Green Dot: Ray, Adriana, Shannon, Taylor
