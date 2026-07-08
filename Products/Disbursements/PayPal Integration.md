@@ -1,3 +1,11 @@
+**July 07, 2026**
+[Mano, Bob, Irena, Taylor]
+
+- Preliminary PRD review 
+- [ ] Review PRD and provide feedback by 7/13
+	- need to have different fee structures stored in DB? Taylor thinks perhaps yes but we'll see
+	- 
+
 **June 26, 2026**
 [Mano, Bob, Michael, Taylor, Irena, Michelle, Sohan]
 

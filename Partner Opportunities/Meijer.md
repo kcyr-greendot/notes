@@ -1,3 +1,11 @@
+**July 07, 2026**
+[Ray, Adam, Colin, Taylor]
+
+- how can we incorporate HSA and EBT? 
+- potential for me to join this call on 7/21? 
+- Taylor & Karl next steps: 
+	- Taylor will sequence the 
+
 **July 01, 2026**
 [Ray, Adam, Colin, Taylor]
 

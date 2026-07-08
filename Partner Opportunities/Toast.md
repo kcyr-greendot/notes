@@ -1,3 +1,18 @@
+**July 07, 2026**
+Mastercard: Cosku, Antonio, Scott
+Green Dot: Ray, Pawel, Adriana, Taylor
+
+- Adriana - our goal is to ensure alignment and make sure we provide any information we need to agree on a KYC waiver
+- Cosku- in a nutshell, KYC requirements apply for reloadable cards and debit/prepaid cards
+	- gift cards are exempt because they're anonymous and non-reloadable
+	- if there are certain controls - limited to specific merchants, daily & monthly load limits, other controls - we can apply for a variance on the KYC requirements
+	- we will work with you to try to get this approved internally
+	- we need to sign a Private Label Enrollment form - which we haven't done with Green Dot before
+- Antonio: 
+	- walk us through the construct... 
+- is this exempt from Durbin 
+
+
 **July 06, 2026**
 [Adriana, Shannon, Ray, Justin, Taylor, Shane, Akhil, Jessica Zhu]
 
