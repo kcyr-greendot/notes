@@ -1,3 +1,15 @@
+**July 08, 2026**
+JPMC: Harsh
+Green Dot: Taylor, Tim, Ray, Tammina
+
+- Tim: we don't transmit any PII from the retailer to Green Dot
+- fee structure? 
+	- we should be all set with teh $2.95 - we confirmed with the Retailers 
+	- Tim opened a ticket yesterday
+	- Walmart still in process but we're optimistic that we should have that soon
+- Harsh has provided Tammina with all the IPs needed
+
+
 **July 01, 2026**
 JPMC: Harsh
 Green Dot: Taylor, Tammina 
