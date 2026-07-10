@@ -1,3 +1,15 @@
+**July 09, 2026**
+Bakkt: Aayur, Marc, Ankit
+Green Dot: Paul, Waylon, Wyn, Taylor, Satheesh
+
+- outstanding technical questions in Slack waiting for answer
+- Aayur looking for ACH-based "instant funding" - i.e. early access to ACH transfer
+	- credit with an Adjustment
+	- wanted for MVP
+	- [ ] put together a solution guide for this 
+- Marc - question about ACH return codes - I don't fully understand all of the situations where I could receive these codes? 
+	- [ ] look into this (Marc's question on Slack)
+
 **July 02, 2026**
 Bakkt: Aayur, Marc
 Green Dot: Ray, Taylor, Akhil, Waylon, Satheesh
