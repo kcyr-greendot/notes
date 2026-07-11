@@ -1,3 +1,26 @@
+**July 10, 2026**
+Green Dot: Ray, Taylor
+Forage: Mike, Jack, Ofek
+
+- Jack went to Bates College 
+- Mike - "we have two distinct and complementary paths"
+- largest most scaled partnerships are with DoorDash and Uber Eats 
+	- DoorDash consumer can connect their EBT balance and see it and use it for spend directly from the app
+- partners provide a user id to Forage
+- Forage does "anti-fraud card fingerprinting" - matching userid-card combinations 
+- Forage app is a "storefront for the retailer"
+	- USDA only allows the "retailer" (FNS ID) to do the balance check
+	- so - as long as we partner with a retailer (i.e. Walmart, Meijer, 7-Eleven, etc.) to pull the balance we can do it (e.g. "EBT balance provided through partnership with Meijer")
+- no txn history available via APIs, only balance 
+	- Forage app shows txn history 
+- balance check feature drives meaningful results: 
+	- higher average order value (+9%)
+	- Jack: "Forage observes up to 9% higher AOV among our retailer partners who offer balance check in the path to purchase."
+	- higher conversion 
+	- higher order frequency 
+- people use EBT benefits in first half of the month, use their card in the second half
+- user needs to enter their 4 digit PIN every time they want to view the balance 
+
 **July 09, 2026**
 Green Dot: Ray, Adam, Taylor
 Forage: Mike, Jack, Ofek
