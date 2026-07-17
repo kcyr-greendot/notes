@@ -1,3 +1,10 @@
+**July 16, 2026** - Reviewing PVL Models
+[Shane, Adriana, Shannon]
+
+- ~$0.49 contribution per active user per period (typically $2-3 on baas)
+- model assumes all interchange revenue goes back to Toast
+- we don't know how much it costs us to host an account
+
 **July 07, 2026**
 Mastercard: Cosku, Antonio, Scott
 Green Dot: Ray, Pawel, Adriana, Taylor

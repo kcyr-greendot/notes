@@ -1,10 +1,17 @@
 [Meijer 7.21.2026](https://greendot365.sharepoint.com/:p:/r/sites/BusinessDevelopmentItems/Shared%20Documents/General/Retail/Meijer/Meijer%2007.21.26.pptx?d=w93a001604b5e44b8b0e4297d8b863b17&e=4%3ab74a9e95e0b44a4986627d8534c6d6a5&sharingv2=true&fromShare=true&at=9&wdLOR=cE12DB914-D928-CB42-9F8D-649E73041106&OR=Outlook) Meeting Prep
 
+**July 16, 2026**
+[Adam, Ray, David, Colin]
+
+- I will present slides 15-17
+- [ ] need to update slide 16 with PNT integration as a straw man
+- David - what's in it for us? 
+- 
+
 **July 10, 2026**
 [Ray, Taylor]
 
 - Meijer has two credit cards - one private label, one open loop (issued by Citi)
-- 
 
 **July 07, 2026**
 [Ray, Adam, Colin, Taylor]
