@@ -1,4 +1,32 @@
-[Meijer 7.21.2026](https://greendot365.sharepoint.com/:p:/r/sites/BusinessDevelopmentItems/Shared%20Documents/General/Retail/Meijer/Meijer%2007.21.26.pptx?d=w93a001604b5e44b8b0e4297d8b863b17&e=4%3ab74a9e95e0b44a4986627d8534c6d6a5&sharingv2=true&fromShare=true&at=9&wdLOR=cE12DB914-D928-CB42-9F8D-649E73041106&OR=Outlook) Meeting Prep
+
+
+**July 21, 2026**
+Meijer: Derek, Emily Henao, Justin Sessink
+Green Dot: Ray, Adam, David, Colin, Jess Reikowsky
+
+> [!Meeting Deck]
+> 
+[Meijer 7.21.2026](https://greendot365.sharepoint.com/:p:/r/sites/BusinessDevelopmentItems/Shared%20Documents/General/Retail/Meijer/Meijer%2007.21.26.pptx?d=w93a001604b5e44b8b0e4297d8b863b17&e=4%3ab74a9e95e0b44a4986627d8534c6d6a5&sharingv2=true&fromShare=true&at=9&wdLOR=cE12DB914-D928-CB42-9F8D-649E73041106&OR=Outlook) 
+
+- Meijer team was part of Shipt rollout with Bill Smith
+	- "they're a good partner for us"
+- $200M for 5 years (incremental margin)
+- current contract with Citibank - does this limit us? (locked into this contract until 2030)
+- "we need to figure out some sort of membership product"
+	- Amazon Prime, Kroger Boost, Walmart Plus... etc. 
+	- benefits like free delivery, point multipliers
+- "financial services is new to us, it will take some time to get people on board here"
+- timeline?
+	- capital planning is through the 2027 cycle, likely targeting 2028 launch
+	- currently - building the business case 
+- 600k Green Dot customers in Meijer's 6 states; large majority of which are not current Meijer customers
+- Justin and Derek aren't familiar with Forage
+	- Meijer currently supports shopping / paying with EBT but still there's no way to see the balance
+- community partnerships team has had a difficult time fulfilling gift card orders via BHN
+- next steps:
+	- understand legal considerations of Citi contract
+	- aligning on scope 
+	- 
 
 **July 16, 2026**
 [Adam, Ray, David, Colin]
