@@ -1,3 +1,11 @@
+**July 23, 2026** - Network Call
+7-Eleven: Veena, Willie, Jithesh
+Green Dot: Danon, Sean, Mani, Wayne
+
+- no call last week
+- conversation based on network diagram in email
+- 
+
 **June 30, 2026**
 7-Eleven: Jithesh, Siva, Veena
 Green Dot: Shane, Veronica, Everett, Sean, Tammina
