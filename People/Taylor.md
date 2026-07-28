@@ -1,3 +1,18 @@
+**July 27, 2026**
+List for Taylor: 
+- [x] TikTok call 
+- [x] Meijer call
+- [ ] Chase - OFAC discrepancy 
+- [x] Forage writeup
+- [ ] Ask re: program financials
+- [ ] Disbursements docs (wiki & Nicholas review)
+- [x] Sankeerth
+
+Alaska trip good, lots of rain, incredible wildlife , humpback bubble feeding, 10 new birds on "life list"
+
+we're moving away from whitelabeled products - it's either fully API /customized or Green Dot branded 
+- this is a Bill Smith / Mark (new CEO) 
+
 **July 02, 2026**
 
 - Taylor's idea: get together a "tiger team" - Taylor, Christina C, Chrissy C, Michelle, Adam Evans, Everett, etc. to review GDN assets and materials 
