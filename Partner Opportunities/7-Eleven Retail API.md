@@ -1,3 +1,13 @@
+**July 28, 2026** 
+7-Eleven: Jithesh, Veena, Shiva
+Green Dot: Michelle, Srikala, Everett, Sean, Taylor
+
+- Jithesh - top priority is test data 
+- Veena: "we need a stable version to test against"
+- Void & Reversal details? 
+	- Sean chasing this down with Somya
+	- what are the timeout values? 
+
 **July 23, 2026** - Network Call
 7-Eleven: Veena, Willie, Jithesh
 Green Dot: Danon, Sean, Mani, Wayne
