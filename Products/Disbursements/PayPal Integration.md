@@ -1,3 +1,12 @@
+**July 30, 2026**
+[Erik]
+
+- let's not try to jam this into the existing draft amendment - it's at the 1 yard line
+- we can get the boilerplate agreement from Shilpa 
+- PayPal as a vendor in LogicGate (not as a Partner)
+	- we're paying PayPal $0.25/txn for this
+	- eixsting vendor relationship was set up previously for marketing program funding 
+
 **July 07, 2026**
 [Mano, Bob, Irena, Taylor]
 
