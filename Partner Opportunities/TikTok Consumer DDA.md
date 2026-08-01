@@ -1,3 +1,14 @@
+**July 31, 2026**
+[Willis, Taylor]
+
+- Willis' take on TikTok meeting: 
+	- they were cold initially - later warmed up (Willis thought they were grandstanding for their CEO)
+	- Bill Smith did a good job - he was selling 
+- new CEO met with Kingsley yesterday 
+	- TikTok is comparing themselves with X Money
+- they have their own solution for BNPL they use overseas (Klarna in the U.S.)
+
+
 **July 13, 2026**
 TikTok: Hao, Yuanli, Frank, Kingsley, Sharon Xia, Wesley, Xueyan, Zoe Wu, Francis
 Green Dot: Willis, David, Bill Smith, Renata
