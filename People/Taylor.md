@@ -1,3 +1,13 @@
+**August 10, 2026**
+- Embedded account offsite - Thursday in Nashville
+	- how do we sell retailers on the closed loop "on-us" solution? 
+	- Dollar General - "spendwell" ; Walgreens - "scarlet" - negative experiences with embedded banking products
+- Visa has no-interchange model (network fees only)
+- [ ] questions for the networks about how to implement a PVL program? 
+- [ ] what does the monolithic app w/program-specific configurations look like? 
+- Toast call w/Legal
+	- legal won't condone the reloadable prepaid account - has to be the aggregated gift cards
+
 **July 27, 2026**
 List for Taylor: 
 - [x] TikTok call 

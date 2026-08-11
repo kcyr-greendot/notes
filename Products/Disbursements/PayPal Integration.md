@@ -11,7 +11,7 @@
 [Mano, Bob, Irena, Taylor]
 
 - Preliminary PRD review 
-- [ ] Review PRD and provide feedback by 7/13
+- [x] Review PRD and provide feedback by 7/13
 	- need to have different fee structures stored in DB? Taylor thinks perhaps yes but we'll see
 	- 
 
