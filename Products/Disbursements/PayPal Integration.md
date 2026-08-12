@@ -1,3 +1,18 @@
+**August 11, 2026** - Technical Integration Kickoff Call
+Green Dot: Mano, Sohan, Taylor, Karl 
+Paypal: Alison, Ryan, Benjamin, Jas, Carlton
+
+- Jas: what is the business problem you're trying to solve? 
+	- Taylor replies - Rapid!, disbursements, me-to-me transfers on BaaS
+- extended conversation about funds flows
+- Jas - we don't support payroll payouts today due to liability 
+	- contractor and commission payouts are fine, W2 are not 
+	- Mano - this is potentially a problem for Rapid!
+		- we look at it as - the user has already earned these funds, we're unlocking PayPal as an option to get access to those funds
+		- the wages are already there in the employees' accounts, this is a mechanism for transferring them externally
+		- Jas- doesn't sound like it will be a problem, will check with compliance team
+	- 
+
 **July 30, 2026**
 [Erik]
 
