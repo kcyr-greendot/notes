@@ -1,3 +1,10 @@
+**August 12, 2026**
+[Karl, Pawel, Michael, Adriana, Shannon]
+
+- Adriana - Amy says if we move to PVL, KYC will be required
+- Taylor - i disagree - I believe that we have to continue to use the gift card aggregation model
+- Michael 
+
 **July 16, 2026** - Reviewing PVL Models
 [Shane, Adriana, Shannon]
 
