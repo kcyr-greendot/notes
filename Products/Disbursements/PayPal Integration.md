@@ -1,3 +1,11 @@
+**August 18, 2026**
+[Mano, Irena, Taylor]
+
+- wanted to take this to the PRD meeting on Friday, but Crystal asked product to hold until we clarify the fees with PayPal
+- currently $0.25/txn
+	- PayPal offered a fee tier, Crystal wants fee free
+	- 
+
 **August 11, 2026** - Technical Integration Kickoff Call
 Green Dot: Mano, Sohan, Taylor, Karl 
 Paypal: Alison, Ryan, Benjamin, Jas, Carlton
@@ -11,7 +19,7 @@ Paypal: Alison, Ryan, Benjamin, Jas, Carlton
 		- we look at it as - the user has already earned these funds, we're unlocking PayPal as an option to get access to those funds
 		- the wages are already there in the employees' accounts, this is a mechanism for transferring them externally
 		- Jas- doesn't sound like it will be a problem, will check with compliance team
-	- 
+
 
 **July 30, 2026**
 [Erik]

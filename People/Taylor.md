@@ -1,3 +1,11 @@
+**August 18, 2026**
+- Dave challenged Taylor - "you guys are talking to Partners, what are they asking for"
+- we do three things: 
+	- help sign new deals
+	- drive the platform forward so we can broaden our offerings for the future
+	- make future sales easier
+- we're already at 105% of bookings and 68% of go-lives
+
 **August 10, 2026**
 - Embedded account offsite - Thursday in Nashville
 	- how do we sell retailers on the closed loop "on-us" solution? 
