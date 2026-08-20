@@ -1,4 +1,7 @@
-**August 18, 2026**
+  **August 19, 2026**
+  - 
+  
+  **August 18, 2026**
 - Dave challenged Taylor - "you guys are talking to Partners, what are they asking for"
 - we do three things: 
 	- help sign new deals
@@ -20,10 +23,10 @@
 List for Taylor: 
 - [x] TikTok call 
 - [x] Meijer call
-- [ ] Chase - OFAC discrepancy 
+- [x] Chase - OFAC discrepancy 
 - [x] Forage writeup
-- [ ] Ask re: program financials
-- [ ] Disbursements docs (wiki & Nicholas review)
+- [x] Ask re: program financials
+- [x] Disbursements docs (wiki & Nicholas review)
 - [x] Sankeerth
 
 Alaska trip good, lots of rain, incredible wildlife , humpback bubble feeding, 10 new birds on "life list"

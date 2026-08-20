@@ -1,3 +1,10 @@
+**August 19, 2026**
+JPMC: Harsh
+Green Dot: Ray, Tammina
+
+- JPMC got resource assigned to draft contract
+- 
+
 **July 08, 2026**
 JPMC: Harsh
 Green Dot: Taylor, Tim, Ray, Tammina
