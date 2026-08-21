@@ -1,5 +1,12 @@
+  **August 20, 2026**
+  - Snap Finance 
+	  - currently virtual Discover card w/i2c & Galileo 
+	  - owner Ted was involved in Green Dot acquisition
+	  - BNPL / merchant acceptance restrictions needed 
+  
   **August 19, 2026**
-  - 
+  - reviewed [OKRs](https://greendot365-my.sharepoint.com/:w:/r/personal/kcyr_greendotcorp_com/Documents/Documents/career/performance/Karl%20H2%202026%20OKRs.docx?d=we55d3feda49b4b2cbb10239f6ae1cde9&csf=1&web=1&e=EqkBwj) and made some tweaks
+  - overall we are aligned on goals for the remainder of the year
   
   **August 18, 2026**
 - Dave challenged Taylor - "you guys are talking to Partners, what are they asking for"
