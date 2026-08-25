@@ -1,3 +1,11 @@
+**August 24, 2026**
+[Shannon, Adriana, Taylor]
+
+- Shannon quoted Fergal cost+20% margin pricing
+- $0.23 / active
+- merchant acquiring funds in (AFT) is cost only
+- 
+
 **August 12, 2026**
 [Karl, Pawel, Michael, Adriana, Shannon]
 
