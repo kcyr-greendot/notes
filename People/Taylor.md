@@ -1,3 +1,6 @@
+  **August 25, 2026**
+  - Taylor approves my writeup for Apple Pay and TikTok 
+  
   **August 20, 2026**
   - Snap Finance 
 	  - currently virtual Discover card w/i2c & Galileo 
