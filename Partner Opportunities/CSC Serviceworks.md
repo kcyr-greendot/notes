@@ -1,3 +1,20 @@
+**August 26, 2026**
+CSC: Chris D, Igor Stanisavljev
+Green Dot: Willis
+
+- closed loop vs. open loop 
+- cash -to-wallet is the "low hanging fruit"
+- diversity of machines/POS - "at least 5": 
+	- coin-op
+	- tap to pay on machine
+	- kiosks
+- Igor: we have an operator that has ~13k machines
+	- they're getting out of the business - CSC needs to replace service with another vendor
+	- 700 machines (100 rooms / 50-60 locations) with no cash option - this could be a good pilot 
+	- all machines getting converted to OTA app
+- follow-ups - 
+	- summary doc to talk about wallet options - open loop/closed loop/private label
+
 **August 12, 2026**
 CSC: Chris Damvakaris, Darrell Harrison
 Green Dot: Willis
