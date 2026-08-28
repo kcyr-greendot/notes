@@ -1,3 +1,8 @@
+  **August 27, 2026**
+  - Snap Finance recap
+	  - we need a hypothesis on how we could address the dynamic spend controls use case 
+	  - 
+  
   **August 25, 2026**
   - Taylor approves my writeup for Apple Pay and TikTok 
   
