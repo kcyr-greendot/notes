@@ -1,3 +1,7 @@
+**September 01, 2026**
+- Circle - two opportunities
+	- fiat 
+  
   **August 27, 2026**
   - Snap Finance recap
 	  - we need a hypothesis on how we could address the dynamic spend controls use case 
