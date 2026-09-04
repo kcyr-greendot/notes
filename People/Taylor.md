@@ -1,3 +1,17 @@
+**September 03, 2026**
+- dynamic spend controls / custom auth
+	- Taylor sending Claude output and Confluence doc
+	- [ ] put together the confluence doc, prep for meeting with Crystal and Renata next week
+- Tribes/ Squads
+	- breaking out role definitions for Dave H's org
+- Cash Pickup 
+	- I shared the [Solution Guide for MassPay](https://greendot365-my.sharepoint.com/:w:/r/personal/kcyr_greendotcorp_com/Documents/Partners/Masspay/MassPay%20Solution%20Guide%20-%20Cash%20Pickup%20-%20August%202026.docx?d=wd197c3f303d34ca1b2ef7055b81b9a8d&csf=1&web=1&e=zQfN9V)
+	- Taylor will review and give notes 
+- PayPal / Venmo 
+- GDN Money Movement opps - whats our backlog, can we deliver? 
+- EWA - how do we offer as a product? 
+	- how would we want this to work 
+
 **September 01, 2026**
 - Circle - two opportunities
 	- fiat 

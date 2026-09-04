@@ -1,10 +1,21 @@
+**September 03, 2026**
+Toast: Fergal, Luis, Mini
+Green Dot: Shannon, Taylor, Adriana 
+
+- Fergal just got back from two weeks in Ireland
+- Luis is new to Toast - product manager on Mini's team, based in Denver
+- Taylor laying out [our recommended solution](https://greendot365.sharepoint.com/:p:/r/sites/Toast-BusinessTeam/_layouts/15/Doc.aspx?sourcedoc=%7B316303C7-E997-44F5-A2EB-8128D7A57DC7%7D&file=INTERNAL%20Toast%20-%20Tap%20to%20Pay%20Solution.pptx&action=edit&mobileredirect=true)
+- Fergal: why can't we go to higher limits? $500 daily load / $1k max balance are well below the FinCEN limits
+- what is limit for a prepaid reloadable private label card (KYC required)?
+- Fergal wants us to check into limits
+- what is total cost? 
+
 **August 24, 2026**
 [Shannon, Adriana, Taylor]
 
 - Shannon quoted Fergal cost+20% margin pricing
 - $0.23 / active
 - merchant acquiring funds in (AFT) is cost only
-- 
 
 **August 12, 2026**
 [Karl, Pawel, Michael, Adriana, Shannon]
