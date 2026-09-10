@@ -1,3 +1,11 @@
+**September 09, 2026**
+- CSC Serviceworks 
+- Wealthfront EOL... 
+	- not really a fit for us but definitely a bummer
+- Chime is buying Stride Bank
+- truth is - we aren't easy to integrate with for stored value ... 
+- "we have to be the product people who anticipate the needs, nobody else can think two steps ahead"
+
 **September 03, 2026**
 - dynamic spend controls / custom auth
 	- Taylor sending Claude output and Confluence doc
