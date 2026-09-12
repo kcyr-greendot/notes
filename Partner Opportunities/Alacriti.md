@@ -1,3 +1,8 @@
+**September 11, 2026**
+[Tony]
+
+- concerns from legal about Alacriti needing MTLs
+
 **3/2/26**
 [Tony]
 
