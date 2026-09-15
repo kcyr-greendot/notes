@@ -52,11 +52,11 @@ Three files updated:
 - [ ] What does monolithic app with program-specific configs look like?
 - [ ] To-do list for documentation needs
 - [ ] Run through Taylor feedback on Retailer cheat sheet
-- [ ] What's the desired end state for GDN cheat sheet
-- [ ] Create collateral for BankSocial P2P-as-a-service
+- [x] What's the desired end state for GDN cheat sheet
+- [x] Create collateral for BankSocial P2P-as-a-service
 
 **`Partner Opportunities/CSC Serviceworks.md`**
-- [ ] Solution guide for Cash Load
+- [x] Solution guide for Cash Load
 
 ---
 

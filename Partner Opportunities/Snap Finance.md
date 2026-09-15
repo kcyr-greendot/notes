@@ -1,3 +1,38 @@
+**September 14, 2026**
+Snap: Michael, Megan, Amandeep Singh, Isaiah Jones
+Green Dot: Willis, Taylor
+
+- Amandeep - lead enterprise services - all technology related to virtual cards
+- Isaiah - product manager - working on virtual card programs 
+	- Isaiah is the guru on virtual cards
+- ability to pass virtual card back to the end user? 
+	- today - they have an iframe directly from issuer
+	- yes - we have a PCI widget and other UI components we can leverage to minimize your exposure to PCI scope 
+- Megan's questions - test cards and attribution
+	- "we aren't live in production with anyone today with that type of use case"
+	- what kind of data can we get from Visa and Mastercard to help for this? 
+- Megan- we are only licensed to have a lease or a loan in certain states
+- Isaiah - two separate goals
+	- Attribution - can we recognize the entity that's using our virtual card? 
+		- a decade ago that was easier - now with payment processors obfuscating the MIDs (Square shares MIDs)
+		- LTO - use anywhere within Discover's network - we allow people to shop outside of Snap's partner network
+		- attribution is for sales commissions
+		- using merchant name, ID, location - combine all three datapoints to create a unique ID for that merchant
+		- lots of turnover / switching in 
+	- Authorization
+		- built their own internal engine
+		- is the merchant attributed? are they vetted as a Snap partner? 
+		- have the ability to deny on MCC codes
+		- combination of merchant name and MID 
+- cards are commercial prepaid (GPR) - but Snap doesn't reload the cards - so they're effectively single use
+	- high IX rates - lots of blocking by merchants
+- Discover provides Snap merchant data
+	- huge opportunity going to Visa / Mastercard 
+	- but do we potentially lose our data from Discover? 
+	- Snap signed a data exchange agreement with Discover - 3.5M merchants and their data shared with Snap 
+- Amandeep - can you take Snap's KYC or does Green Dot need to do its own? 
+- 
+
 **August 27, 2026**
 Snap: Rob Barnhart, Megan Pecilunas, Michael Minor
 Green Dot: Willis, Taylor

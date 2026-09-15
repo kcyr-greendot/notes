@@ -1,3 +1,10 @@
+**September 14, 2026**
+- Forage went well - longer term opportunity
+- looking forward to next year...
+	- big tax due to ongoing compliance work and migration completion
+	- identify the gaps on functionality 
+	- [ ] roles & responsibilities for Snap ( who does what on spend controls )
+
 **September 09, 2026**
 - CSC Serviceworks 
 - Wealthfront EOL... 

@@ -1,3 +1,10 @@
+**September 14, 2026**
+[Adriana, Taylor, Shannon]
+
+- we have pricing from Visa and Mastercard, Adriana to share with Fergal
+	- Mastercard willing to offer a discount but they want projections
+- [ ] Share a list of prepaid features 
+
 **September 03, 2026**
 Toast: Fergal, Luis, Mini
 Green Dot: Shannon, Taylor, Adriana 

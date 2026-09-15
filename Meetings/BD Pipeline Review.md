@@ -1,3 +1,22 @@
+**September 14, 2026**
+[David, Jonathan, Chris, Whit, Willis, Taylor]
+
+![[Screenshot 2026-09-14 at 1.35.08 PM.png]]
+
+- "we have a path to $200M"
+- TikTok - Willis
+	- "the great white whale"
+	- U.S. growth metrics are very strong
+	- disbursements story is very strong ($2B in overnight deposits)
+	- 3-4M monetized creators in the U.S. 
+	- they're giving us a September deadline for a decision
+	- we're at the top of their "Durbin-exempt" list
+	- we keep hearing that we're at the top of the list for non-big-banks ... but it's an uphill battle to sell this with Singapore leadership team
+- we quote 4-6 months to launch from contract signature for BaaS or custom 
+- Real SLX
+	- this is very close (end of month close)
+	- Jonathan concerned about a lot of non-standard reporting features and net float pricing customization
+
 **June 08, 2026**
 [David, Frank, Derek, Ray, Shane, Alison, Tony, Taylor, Nathan, Sarah]
 
