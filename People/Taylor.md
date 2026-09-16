@@ -1,3 +1,13 @@
+**September 15, 2026**
+- David Kring - resigning and going to a new company 
+	- thinks the direction is to move us to sales - David advocating for this 
+	- currently under Chris Ruppel 
+	- David thinks that Chris Ruppel will probably stay in the bank leadership team
+- Taylor met SF-based consultant at Forage last week 
+	- Regulators came back with a whole bunch more questions 
+	- We think they have the information they need 
+- 
+
 **September 14, 2026**
 - Forage went well - longer term opportunity
 - looking forward to next year...

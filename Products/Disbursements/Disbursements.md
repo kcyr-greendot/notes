@@ -1,3 +1,11 @@
+**September 15, 2026**
+[Taylor, Michelle, Sohan]
+
+- APIM vs. GFT? 
+- that's not really the question - but which APIs are we going forward with? 
+- it will be on the Azure stack either way 
+- decision - we should document the "Digital Money Movement Platform" 
+
 **July 30, 2026** - Documentation draft review 
 [Nicholas, Paul, Sohan, Michelle, Jack, David, Mano, Shoni, Michael Taylor]
 
