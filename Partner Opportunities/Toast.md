@@ -1,3 +1,9 @@
+**September 16, 2026**
+[Shane, Shannon, Adriana, Taylor, Willis]
+
+- Reviewing [Pricing Options](https://greendot365-my.sharepoint.com/:x:/g/personal/syonai_greendotcorp_com/IQAUi6diZzP5S7Ej9myYXidpAev6xFRDlpd3-GfyVVHv3ig?e=gmhEqk&isSPOFile=1&ovuser=7f6bcd3a-7ec3-4e56-b0aa-c1b641c97749%2Ckcyr%40greendotcorp.com&wdExp=TEAMS-TREATMENT&web=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNjA4MTMxOTMyMSJ9) with Shane
+- 
+
 **September 14, 2026**
 [Adriana, Taylor, Shannon]
 
