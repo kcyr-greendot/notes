@@ -1,3 +1,12 @@
+**September 17, 2026**
+- Spend controls - take to DRC / IRC next week
+	- schedule something for Tuesday w/Crystal, Renata and Shannon - Christina Stubert to schedule
+- Board Preview meeting 
+	- Q2 is an existing partner on POB (swipe reload)- they're going to add barcode reload 
+		- no consumption api - instead they're using network rails 
+		- Q2 building API on top of our API for their customers
+		- POB ecash - we pass a PAN, expiration, first - last - zip 
+
 **September 15, 2026**
 - David Kring - resigning and going to a new company 
 	- thinks the direction is to move us to sales - David advocating for this 
@@ -6,7 +15,7 @@
 - Taylor met SF-based consultant at Forage last week 
 	- Regulators came back with a whole bunch more questions 
 	- We think they have the information they need 
-- 
+-
 
 **September 14, 2026**
 - Forage went well - longer term opportunity

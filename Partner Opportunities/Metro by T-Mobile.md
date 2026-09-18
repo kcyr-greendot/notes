@@ -1,3 +1,10 @@
+**September 17, 2026**
+[Frank, Ray, Taylor]
+
+- we don't want to add Metro as a Retailer because they don't have MTLs 
+- ideally we keep it focused on the T-Mobile bill play 
+- 
+
 **5/22/26**
 T-Mobile: Tristan, Brian, Jubi
 Green Dot: Frank, Taylor, Danon
