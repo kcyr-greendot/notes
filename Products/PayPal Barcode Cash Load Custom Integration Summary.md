@@ -122,3 +122,7 @@ Option A is lower risk and consistent with how Uber was added. Option B is the r
 | `GSS-ECHSVC-ECash` | `~/projects/GSS-ECHSVC-ECash` |
 | `MMGDN-COM-GDFNPartnerGateway` | `~/projects/MMGDN-COM-GDFNPartnerGateway` |
 | `MMGDN-PRT-GDFNPartnerReloadAPI` | `~/projects/MMGDN-PRT-GDFNPartnerReloadAPI` |
+
+
+### Transfers API Docs (PayPal)
+https://developer.paypal.com/api/limited-release/transfers/v3

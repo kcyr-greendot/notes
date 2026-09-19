@@ -1,7 +1,13 @@
+ **September 18, 2026**
+ [Jeff, Akhil, Chuck, Harman, Yamini, Chrissie, Nihkil, Marco, Rita, Michelle, Sri, Danny, John, Irena, Kim, Smitha, Terence, Chrissy, Taylor, Allan, Rachel, Ramia, Swetha, Kate, Daniel]
+
+- Nov 2 friends & Family / Dec 1 launch
+- Rita 
+ 
  **July 07, 2026**
 [Irena, Jeff, Akhil, Kate, Sam, Chuck, Tony, John, Peter]
 
-- 
+-
 
 **June 26, 2026**
 [Tony, Megan, John G, Irena, Paul, Kate, Nikhil]

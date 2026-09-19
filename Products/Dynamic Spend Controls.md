@@ -9,4 +9,4 @@ Adam - "Dollar General is hot again" - interchange savings key for DG's treasure
 
 DRC submission next week???
 
-- [ ] connect with Adam about closed loop economics
+- [x] connect with Adam about closed loop economics

@@ -1,3 +1,9 @@
+**September 18, 2026**
+[Taylor, Erik, Michelle]
+
+- Taylor thinks we can do this with a Retailer Key
+- Taylor taking next steps to follow up with a ticket for 
+
 **September 15, 2026**
 
 - PayPal currently has unique Retail keys for $2.00 load today 
