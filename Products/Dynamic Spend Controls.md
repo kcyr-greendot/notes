@@ -1,3 +1,8 @@
+**September 21, 2026**
+[Taylor]
+
+prepping for DRC 
+
 **September 17, 2026**
 [Renata, Shannon, Adam, Ray, Willis, Taylor, Cyrstal]
 

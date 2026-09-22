@@ -1,15 +1,22 @@
+**September 21, 2026** - Mastercard
+Mastercard: Johnathan Rosenhan, Scott Jascha, Antiono Marra, Geri Hernandez
+Green Dot: Pawel, Taylor, Adriana, Shannon
+
+- first question Durbin routing:
+	- Antonio - being prepaid card - these generally require Durbin routing and perhaps the exemptoin for single merchant/affiliated merchants doesn't apply here because these technically aren't "affiliated" merchants
+	- Taylor - technically the point of this 
+
 **September 16, 2026**
 [Shane, Shannon, Adriana, Taylor, Willis]
 
 - Reviewing [Pricing Options](https://greendot365-my.sharepoint.com/:x:/g/personal/syonai_greendotcorp_com/IQAUi6diZzP5S7Ej9myYXidpAev6xFRDlpd3-GfyVVHv3ig?e=gmhEqk&isSPOFile=1&ovuser=7f6bcd3a-7ec3-4e56-b0aa-c1b641c97749%2Ckcyr%40greendotcorp.com&wdExp=TEAMS-TREATMENT&web=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNjA4MTMxOTMyMSJ9) with Shane
-- 
 
 **September 14, 2026**
 [Adriana, Taylor, Shannon]
 
 - we have pricing from Visa and Mastercard, Adriana to share with Fergal
 	- Mastercard willing to offer a discount but they want projections
-- [ ] Share a list of prepaid features 
+- [x] Share a list of prepaid features 
 
 **September 03, 2026**
 Toast: Fergal, Luis, Mini
