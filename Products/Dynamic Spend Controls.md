@@ -3,6 +3,11 @@
 
 prepping for DRC 
 
+**DRC Prep Meeting**
+[Taylor, Renata, Justin, Shannon, Adriana]
+
+- don't say "Toast" that's a 3rd rail right now 
+
 **September 17, 2026**
 [Renata, Shannon, Adam, Ray, Willis, Taylor, Cyrstal]
 
