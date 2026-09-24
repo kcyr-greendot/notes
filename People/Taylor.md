@@ -22,7 +22,7 @@
 - looking forward to next year...
 	- big tax due to ongoing compliance work and migration completion
 	- identify the gaps on functionality 
-	- [ ] roles & responsibilities for Snap ( who does what on spend controls )
+	- [x] roles & responsibilities for Snap ( who does what on spend controls )
 
 **September 09, 2026**
 - CSC Serviceworks 
@@ -35,7 +35,7 @@
 **September 03, 2026**
 - dynamic spend controls / custom auth
 	- Taylor sending Claude output and Confluence doc
-	- [ ] put together the confluence doc, prep for meeting with Crystal and Renata next week
+	- [x] put together the confluence doc, prep for meeting with Crystal and Renata next week
 - Tribes/ Squads
 	- breaking out role definitions for Dave H's org
 - Cash Pickup 

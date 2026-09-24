@@ -1,3 +1,11 @@
+**September 23, 2026**
+[Tony, Tim W]
+
+- we want to avoid taking payments that need to be refunded - that rejection should come back from Alacriti at the time of authorization
+- after the commit - the customer cannot get a refund!
+- GD Hosted UI 
+	- 
+
 **September 11, 2026**
 [Tony]
 

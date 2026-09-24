@@ -1,3 +1,18 @@
+**September 23, 2026**
+Toast: Fergal, Luis
+Green Dot: Shannon
+
+- Fergal - our key concern at this point is all-in pricing on the new proposed solutions
+- Shannon's goal is to have this pricing packaged up to present tomorrow
+- Fergal thinks that there's a discrete, small list of MIDs (all Toast MIDs) 
+
+**September 23, 2026**
+[Willis, Shannon, Renata, Justin, Shane]
+
+- Shannon - we can share the pricing with Fergal tomorrow
+- ideally - we get them to say yes to Prepaid product as the financials work pretty well
+- [x] send shannon some bullet points for talking about this change as innovative for Toast
+
 **September 21, 2026** - Mastercard
 Mastercard: Johnathan Rosenhan, Scott Jascha, Antiono Marra, Geri Hernandez
 Green Dot: Pawel, Taylor, Adriana, Shannon

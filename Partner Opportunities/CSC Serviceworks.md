@@ -1,3 +1,11 @@
+**September 23, 2026**
+[Shane, Willis]
+
+- CSC doesn't capture any revenue from their existing digital wallet - it's all pass through 
+- CSC how to incentivize people to deposit cash? 
+- subsidizing cash deposit costs? 
+
+
 **September 09, 2026**
 CSC: Chris D, Mike Lane
 Green Dot: Willis
@@ -75,5 +83,5 @@ Green Dot: Willis
 - opportunities here: 
 	- cash loads to stored value accounts and bill payments on appliance rental
 	- acquisition channel for Green Dot debit customers? 
-	- [ ] solution guide for Cash Load
+	- [x] solution guide for Cash Load
 - 
