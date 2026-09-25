@@ -1,3 +1,16 @@
+**September 24, 2026**
+*Presenting to DRC*
+
+- Jess - I've been burned in the past by committing to work for deals don't come through
+	- Amy P +1
+- Renata - we're asking to do the research first, not the work - so we understand the cost and the business case
+	- Crystal - we're totally aligned - but we need to do the research 
+- Michael Gattenby - i'm not in favor if this pulls resources away from 
+- Dave H - i'm concerned about taking resources - especially because this will require key people. Can we just estimate it out and assume that it's going to cost $500k? 
+	- we built the entire closed loop Toast capability for around $500k 
+	- "I'm confident we can do it, and i'm reasonably confident we can do it for around $500k"
+	- Chris R- pad the estimate 50-100% and roll with that (i.e. $750k-$1M)
+
 **September 21, 2026**
 [Taylor]
 
