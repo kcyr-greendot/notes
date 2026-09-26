@@ -10,7 +10,7 @@
 [Tony]
 
 - concerns from legal about Alacriti needing MTLs
-- [ ] Create Alacriti Product Discovery doc
+- [x] Create Alacriti Product Discovery doc
 
 **3/2/26**
 [Tony]

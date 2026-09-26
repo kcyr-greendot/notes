@@ -1,3 +1,12 @@
+**September 25, 2026**
+
+- set up time with Nikhil to understand the ACI integration
+	- we have our own cloud-based instance of ACI
+	- we don't ahve full control 
+- Taylor thinks that the bigger question is not *can* we do it, it's what is the market opportunity this opens up for us? 
+- what's the strategy here? 
+- MBR deck 
+
 **September 17, 2026**
 - Spend controls - take to DRC / IRC next week
 	- schedule something for Tuesday w/Crystal, Renata and Shannon - Christina Stubert to schedule
@@ -81,8 +90,8 @@
 	- how do we sell retailers on the closed loop "on-us" solution? 
 	- Dollar General - "spendwell" ; Walgreens - "scarlet" - negative experiences with embedded banking products
 - Visa has no-interchange model (network fees only)
-- [ ] questions for the networks about how to implement a PVL program? 
-- [ ] what does the monolithic app w/program-specific configurations look like? 
+- questions for the networks about how to implement a PVL program?
+- what does the monolithic app w/program-specific configurations look like?
 - Toast call w/Legal
 	- legal won't condone the reloadable prepaid account - has to be the aggregated gift cards
 
@@ -106,8 +115,8 @@ we're moving away from whitelabeled products - it's either fully API /customized
 - Taylor's idea: get together a "tiger team" - Taylor, Christina C, Chrissy C, Michelle, Adam Evans, Everett, etc. to review GDN assets and materials 
 	- Taylor will work on this
 	- Taylor will ask Akhil if we can be more directive with requests to Nicholas
-- [ ] put together to-do list for documentation needs 
-- [ ] run through Taylor feedback on Retailer cheat sheet doc
+- put together to-do list for documentation needs
+- run through Taylor feedback on Retailer cheat sheet doc
 
 **July 01, 2026**
 3 goals for Meijer: 
@@ -119,11 +128,11 @@ we're moving away from whitelabeled products - it's either fully API /customized
 	- good opportunity to work with Nicholas to put some more content together for customers/partners
 	- "we don't have a Project 30 for GDN / Money Movement"
 	- [eCash Universe](https://greendot.atlassian.net/wiki/spaces/GDN/pages/95715654/eCash+Universe)
-- [ ] what's the desired end state 
+- what's the desired end state
 
 **June 17, 2026**
 - BankSocial - it's essentially P2P as a service
-	- [ ] create collateral for this offering - use Disbursements sell sheet as a model
+	- create collateral for this offering - use Disbursements sell sheet as a model
 - need pricing and "receipt control" details for cash in costs at all retailers 
 	- [x] research and put together some collateral 
 	- Taylor will send me links to work with 

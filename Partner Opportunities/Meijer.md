@@ -32,7 +32,7 @@ Green Dot: Ray, Adam, David, Colin, Jess Reikowsky
 [Adam, Ray, David, Colin]
 
 - I will present slides 15-17
-- [ ] need to update slide 16 with PNT integration as a straw man
+- [x] need to update slide 16 with PNT integration as a straw man
 - David - what's in it for us? 
 - 
 

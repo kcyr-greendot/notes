@@ -11,4 +11,4 @@
 - questions 
 	- what is "Information Sharing" in SOW? 
 		- accessing customer PII for marketing 
-	- [ ] is AMM supported on the UI/whitelabel app
+	- [x] is AMM supported on the UI/whitelabel app
