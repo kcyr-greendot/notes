@@ -1,3 +1,8 @@
+**September 28, 2026**
+[Ray, Paul, Emily Westphal, Taylor Lamb]
+
+- Emily and Taylor are here for Sarah 
+
 **September 02, 2026**
 [Ray, Paul]
 

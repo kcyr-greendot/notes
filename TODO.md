@@ -8,7 +8,7 @@
 - [ ] incorporate full workflow - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
 - [ ] SOW skill - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
 - [ ] Create Solution Guide for Q2 - [Q2](obsidian://open?vault=notes&file=Partner%20Opportunities%2FQ2) - 9/25/2026
-- [ ] Create Funds Flow and share with Frank - [Remitly](obsidian://open?vault=notes&file=Partner%20Opportunities%2FRemitly) - 9/25/2026
+- [x] Create Funds Flow and share with Frank - [Remitly](obsidian://open?vault=notes&file=Partner%20Opportunities%2FRemitly) - 9/25/2026
 
 
 

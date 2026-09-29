@@ -1,3 +1,13 @@
+**September 28, 2026**
+Green Dot: Tony, Tim, Taylor
+Alacriti: Stuart 
+
+- Tony recommending that Alacriti builds its own UI 
+- Stuart - challenge is this is competing for resources with another UI initiative in 2027
+	- building cash payments to match capability of a major competitor
+	- "this isn't a big part of what we do"
+	- their idea - set the maximum payment method amount to match the bill amount
+
 **September 23, 2026**
 [Tony, Tim W]
 
