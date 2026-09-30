@@ -1,3 +1,11 @@
+**September 29, 2026**
+[Mano, Bob, Irena, Taylor, Ashutosh, Jack]
+
+- Mano update
+	- trying to negotiate down rates from $0.25 to $0.08
+	- shared UI mockups, waiting on Crystal approval
+	- still don't have the green llight to re-engage but keeping the irons hot, getting PRD set and being ready when we get the all clear
+
 **August 18, 2026**
 [Mano, Irena, Taylor]
 

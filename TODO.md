@@ -8,7 +8,6 @@
 - [ ] incorporate full workflow - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
 - [ ] SOW skill - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
 - [ ] Create Solution Guide for Q2 - [Q2](obsidian://open?vault=notes&file=Partner%20Opportunities%2FQ2) - 9/25/2026
-- [x] Create Funds Flow and share with Frank - [Remitly](obsidian://open?vault=notes&file=Partner%20Opportunities%2FRemitly) - 9/25/2026
 
 
 
@@ -17,3 +16,4 @@
 - [x] Description of todo goes here - [Toast](obsidian://open?vault=notes&file=Partner%20Opportunities%2FToast) - 9/25/2026
 - [x] questions for the networks about how to implement a PVL program? - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
 - [x] what does the monolithic app w/program-specific configurations look like? - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
+- [x] Create Funds Flow and share with Frank - [Remitly](obsidian://open?vault=notes&file=Partner%20Opportunities%2FRemitly) - 9/25/2026
