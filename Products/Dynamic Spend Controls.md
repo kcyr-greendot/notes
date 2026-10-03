@@ -1,3 +1,12 @@
+**October 02, 2026**
+[Nikhil]
+
+- explaining the Toast example 
+- report lost stolen? 
+- Firewire is the biggest prirotiy right now 
+	- we're not going to get any time from engineering or ACI 
+- Nikhil will check if we have 
+
 **September 24, 2026**
 *Presenting to DRC*
 
