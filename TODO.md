@@ -1,6 +1,6 @@
 ### Open Items
 - [ ] I will share a sample Payload call for an Auth request - [Q2](obsidian://open?vault=notes&file=Partner%20Opportunities%2FQ2) - 9/25/2026
-- [ ] put together to-do list for documentation needs - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
+- [x] put together to-do list for documentation needs - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
 - [ ] run through Taylor feedback on Retailer cheat sheet doc - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
 - [ ] what's the desired end state - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
 - [ ] create collateral for this offering - use Disbursements sell sheet as a model - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
