@@ -1,0 +1,44 @@
+**October 07, 2026**
+Fetch: Rachel Ehrlich, Lauren Choi
+Green Dot: Chris, Ray
+
+- just under 1,000 employees
+- Fetch has a bunch of people in Birmingham
+- learned from credit program that their users are low credit quality
+	- they have hundreds of thousands of cardholders currently 65% MAU
+- help improve people's financial lives
+- significant portion of users are debit cardholders
+- 3x app activity form users who engage with financial products 
+- build trust with the user
+- 2030 goals
+- users open app 30x / month
+- 88% of receipt spend 
+- credit card partner boosts underwriting with customer spend data
+- originally launched with OneFinance - didn't really take off - couldn't get users to put funds into their accounts 
+- interesting features: 
+	- HYSA
+	- ==🟡early pay (EWA)==
+	- ODP 
+- build a "credit enhancement product" (secured card, credit builder, Experian Boost)
+	- working with Imprint on a secured card as a "turn down product"
+	- with a path to a 6 month upgrade
+	- balance with a 
+- Chime - secured card account - good model
+- Walmart is #1 retailer - helps with Green Dot brand visibility
+	- WMMC, OnePay and GD branded products co-exist because of consumer choice
+- Privacy.com
+	- "decoupled debit"?
+- Fetch has a spanish language version of app - fast growing segment (currently less than 20%)
+- looking for more ways to burn points than just gift cards
+	- pay with points is important concept
+- roadmap timing for debit - earliest target is H2 2027, more likely this is a 2028 initiative
+	- rachel wants to take the time to find a product that makes sense
+- "nobody knows who Imprint is" - but Green Dot name carries weight, especially with this segment
+- installment loans? 
+	- Chris: we don't do it currently but we're researching
+- follow up - GD to provide more details about secured card / credit builder product 
+	- include details about savings account - interest rate
+- preferred path "more cobranded"
+- EWA - user pays a fee 
+- daily engagement is a big goal 
+	- a|b testing programs with fitness incentives and watching cultivated ads
