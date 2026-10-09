@@ -1,3 +1,8 @@
+**October 08, 2026**
+[Shannon, Taylor, Adriana]
+
+SSA and Meta RFPs 
+
 **October 02, 2026**
 [Nikhil]
 
