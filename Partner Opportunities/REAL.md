@@ -1,3 +1,20 @@
+**October 09, 2026**
+Real: Kate, Dave, Vab 
+Green Dot: Ray, Paul
+
+- Dave & Kate went to Rao's on Thursday after Campagnola on Wednesday (hard on Dave's 58 year old biological system lol)
+- Vab - Finance 
+- reporting needs: 
+	- previously - took customer deposits (non-refundable)
+	- had all teh information on teh customer 
+	- need to know who the customer is, where they live, deposits, etc 
+	-  want as much information as possible 
+- onboarding flow - Real has a landing page that directs customers over to our side, we handle all of the onboarding flow and PII handling 
+- Dave - batch reporting makes the most sense for us at least at the start 
+- Vab - our only "real-time needs"
+	- account signups & low balance alerts 
+- concerns around privacy data on spend behavior 
+
 **September 28, 2026**
 [Ray, Paul, Emily Westphal, Taylor Lamb]
 
