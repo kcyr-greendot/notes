@@ -1,3 +1,31 @@
+**October 12, 2026**
+[Bryan Thomas, Tim Willi, Tony, Ray, Whit, Frank, Derek, Crystal, Steve McDonald, Shane, Jonathan, Willis, Taylor, Nathan, Sarah C]
+
+- Real 
+	- coordinating with Whit for promotion
+	- waiting on Jess's signoff on "non-standard language"
+- Meta
+	- working on RFI
+- Walmart - RFP for comprehensive bill pay solution for Walmart and OnePay 
+	- we can't delivery this alone - but can we leverage $30MM Tailfin funding to make this come to life? 
+- Frank 
+	- Elise AI - GDN for tenant rents 
+		- waiting for agreement from legal team
+	- Paymentwall - accept money remittances / wallet payments
+	- Banksocial - GDN cash loads
+	- Nubank - cash in & MRDC 
+- Tony 
+	- Avant should be TPRM approved today
+	- Alacriti 
+- Willis 
+	- TikTok - still pending - they're slow... new target date is "end of October" ... sure. 
+		- still have the verbal on the seller payouts
+		- we're being weighed against big banks (JPMC, Capital One, etc.)
+		- we're being told that we're in a very good spot
+		- Willis goign to try to connect them with Crystal at m2020
+	- CSC Serviceworks 
+		- 
+
 **September 14, 2026**
 [David, Jonathan, Chris, Whit, Willis, Taylor]
 

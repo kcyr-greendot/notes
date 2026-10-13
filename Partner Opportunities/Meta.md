@@ -1,10 +1,12 @@
-**October 06, 2026**
+**October 12, 2026**
+[Frank, Ray, Taylor]
+
 - RFP due on 10/20 
 - 
 
 
-**3/27/26**
 
+**3/27/26**
 Meta: Dacia, Artem
 Green Dot: Ray, Frank, Taylor
 

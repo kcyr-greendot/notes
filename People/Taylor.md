@@ -1,7 +1,8 @@
+**October 12, 2026**
+- [ ] Review "Discovery" and "Parking Lot" items on Taylor's Product Strategy dog & produce assessment for Renata/Chris/Crystal
+
 **October 05, 2026**
 - Money 2020 coverage
-- 
-
 
 **September 29, 2026**
 

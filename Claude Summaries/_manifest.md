@@ -1,0 +1,43 @@
+---
+type: claude-summary-manifest
+---
+
+# Claude Summaries – Manifest
+
+Threads that are backed up. The weekly backup job folds any new activity in these threads into their summary notes. Do not add checkboxes to this file.
+
+| Title | Session ID | Summary note | First backed up | Last synced | Last message marker |
+|---|---|---|---|---|---|
+| Agentic control plane concept | local_6db5b35d-a12c-4c0b-92c1-05c402e73a1a | [[Agentic Control Plane concept]] | 2026-10-12 | 2026-10-12 | One small point: the partner's business buyer, like a head of product or a GM, may still need a quick translation |
+| Multi-vendor payment systems reaction | local_4abfc14a-bb96-4207-bb59-b96f7209a698 | [[Marqeta Multi-Vendor Report Reaction]] | 2026-10-12 | 2026-10-12 | It's funny, but read past the headline and the report mostly supports your thesis. That makes it a us |
+| ACH and Direct Deposit in KYC-exempt prepaid | local_e0a7777a-1e5c-4e6c-9f04-2aac8ebe4165 | [[ACH and Direct Deposit in KYC-Exempt Prepaid]] | 2026-10-12 | 2026-10-12 | I could only partly verify Sarah's claim. Dayforce has a reduced-KYC product, but it isn't a KYC-exem |
+| Customer spend data sharing considerations | local_ab4504c2-4fd1-432c-85f5-9fa59c9d0039 | [[Customer Spend Data Sharing with Partners]] | 2026-10-12 | 2026-10-12 | This scenario fits the "share the result, not the data" pattern well. Here's how it applies to the RE |
+| Strategic fit evaluation dimensions | local_b12bdf73-c2eb-4e05-98ee-3d6009eaaef4 | [[Embedded Finance Strategy Deck - Capability Layers]] | 2026-10-12 | 2026-10-12 | The sliders now end at the middle of the slide, and "What stands out" uses the right half, so every n |
+| Truth in Savings Act compliance | local_c3cf0f63-1ec1-47ea-8552-126f7f1f5dfa | [[Truth in Savings Act Study Notes]] | 2026-10-12 | 2026-10-12 | **Calendar days** for both: the 10 and the 30 in the rule. |
+| SOW roles and responsibilities review | local_6bb34f39-5d0f-43b1-b1a4-5792844684a8 | [[SOW Appendix B R&R Review]] | 2026-10-12 | 2026-10-12 | I don't have visibility into your existing files or SharePoint without you sharing them here. I can s |
+| Green Dot strategic position | local_fb04aa93-ecc6-48f9-8698-fb66adfcb789 | [[Embedded Finance Market Segmentation 2x2]] | 2026-10-12 | 2026-10-12 | I wrote the narration script and re-rendered the video to match it. The video now runs 2:04 so each sec |
+| OBP EBPP Cash Payments document review | local_fec30522-2fda-4a25-884e-448264a9a7e6 | [[Alacriti OBP EBPP Cash Payments Doc Review]] | 2026-10-12 | 2026-10-12 | You got it right. I compared the saved file against the version I read earlier: all four settlement fi |
+| Amscot test plan assessment | local_6cd63989-059c-4d9f-b8c6-1297ad4b21ea | [[Amscot F&F Test Plan Assessment]] | 2026-10-12 | 2026-10-12 | The knowledge source only has metadata, no cached docs. And the test plan itself didn't include env |
+| ARC push provisioning | local_580f37b4-4e53-4058-8157-8371381b2989 | [[ARC Push Provisioning for Snap Finance]] | 2026-10-12 | 2026-10-12 | Your read is right. The PCI widget also looks like a ready-made answer for the "show the PAN" fallback |
+| Green Dot barcode cash loads integration | local_0743e4be-2ec2-4623-8361-46f6bfd4d40d | [[Q2 Barcode Cash Loads via Card Networks]] | 2026-10-12 | 2026-10-12 | Start where the swipe version already lives, then work outward to barcode generation. From what I saw |
+| Hosted UI cash loads demo | local_243c2f8b-5a57-43c6-8816-42541077652a | [[Alacriti Hosted UI Cash Loads Demo]] | 2026-10-12 | 2026-10-12 | It's the QA team's step-by-step guide to generating a barcode through the hosted UI: |
+| Account creation logs analysis | local_d93e28f3-cdf5-4563-b5a4-4dd96c2013bd | [[Datadog account creation and cash pickup log analysis]] | 2026-10-12 | 2026-10-12 | Here's the full PRODSTRAT dashboard — **100 ideas** across five statuses: |
+| New account creation metrics | local_977cfb4c-511c-4863-bc6c-9d3b126ba6b3 | [[Account creation metrics without Datadog skill]] | 2026-10-12 | 2026-10-12 | Without the Datadog skill, I don't have a direct path to query your logs — the skill is what handles |
+| Cash Pickup solution guide | local_e700f2d7-2979-4093-b481-7a4125619cac | [[Cash Pickup solution guide]] | 2026-10-12 | 2026-10-12 | No — there's nothing in the spec or the developer docs that defines a void window. The spec only des |
+| Apple Pay card network requirements | local_cf2626bc-b936-438b-bfe2-1d3feb573dcf | [[Apple Pay card network TSP requirement for TikTok]] | 2026-10-12 | 2026-10-12 | That's clean — no issues. Good to go pending your internal check. |
+| Qualia RFI competitive assessment | local_eb45f2d3-4c8d-43f3-82ae-4f8a96036cef | [[Qualia RFI competitive assessment]] | 2026-10-12 | 2026-10-12 | **Quick Summary**  Qualia is the leading real estate closing platform. They want an API-first bank |
+| ZimpleMoney GDN cash bill pay | local_3c30d043-2bbe-44b8-9440-5de28f85ab05 | [[ZimpleMoney GDN cash bill pay fit]] | 2026-10-12 | 2026-10-12 | Here's the quick rundown:  **Who is ZimpleMoney?** ZimpleMoney is a cloud-based loan self-servicing p |
+| Embedded finance retail positioning | local_4ddb5954-df88-41c0-8e47-1fd61b35837f | [[Embedded Finance Retail Partner Positioning]] | 2026-10-12 | 2026-10-12 | This is genuinely useful. Here's what the document tells you about partner configurability — and where the real |
+| Visa PVL BIN compliance deck | local_d1c3e3a6-b425-4b2d-942c-8738bad6ea0f | [[Visa PVL BIN Compliance Deck]] | 2026-10-12 | 2026-10-12 | Yes, that's exactly right — and it's an important precision that the memo could be clearer on. |
+| Moneypak card tokenization | local_e9a81b64-6b0f-4eb2-9ceb-5a8516265884 | [[MoneyPak Mobile Wallet Tokenization]] | 2026-10-12 | 2026-10-12 | No — MoneyPak cards are **not tokenizable** in Apple Pay, Google Pay, or Samsung Pay, and this is by design given how th |
+| TDMS merchant sponsorship RFI | local_075b014d-2a40-4458-9425-b23239164c75 | [[TDMS Merchant Sponsorship RFI]] | 2026-10-12 | 2026-10-12 | Your read is correct. This is an **acquiring-side** RFI. TDMS is a merchant acquirer that needs a bank with direct PIN d |
+| Reg E applicability payment instrument change | local_26be0cfd-b52c-46b9-aac7-9e4b2a109923 | [[Toast PNT to Visa PVL Reg E and Reg II Analysis]] | 2026-10-12 | 2026-10-12 | That's a sharp observation and it cuts right to the legislative purpose of the dual-network requirement. |
+| Merchant restriction requirements | local_d608fd23-39d7-4581-a10a-39969a318ee9 | [[Merchant Spend Restriction Requirements]] | 2026-10-12 | 2026-10-12 | Correct — and that's actually a meaningful constraint on the filtering approach.  As a payment facilitator, Toas |
+| 7-Eleven retail integrations | local_a79a61e3-0db9-4463-9a34-5f9e88d59768 | [[7-Eleven Universal Retail API Swimlanes]] | 2026-10-12 | 2026-10-12 | Here's what the document covers — it's a swimlane diagram (dated March 4, 2026) mapping the **7-Eleven Univers |
+| MRDC and Ingo check cashing comparison | local_e1d62547-5bbb-4691-b733-c2c114c6ed8f | [[MRDC vs Ingo Check Cashing Comparison]] | 2026-10-12 | 2026-10-12 | Sounds good. When a deal comes up, I can turn this into a one-page battlecard or add it to a partner's Program |
+| Toast Cash gift card aggregation code | local_2bceb928-4f09-4326-97f7-4d8dc4f398de | [[Toast Cash Gift Card Aggregation Architecture]] | 2026-10-12 | 2026-10-12 | That clears it up perfectly — and it's actually a clean analogy to the ACI source code question from |
+| Cash Load interactive demo app | local_725ad44a-f51d-4cde-8edb-e3007c46f3b4 | [[Cash Load Interactive Demo App]] | 2026-10-12 | 2026-10-12 | You've got the zip (20 KB) and the raw `index.html` if you want to open it directly. |
+| Digital wallet terminology | local_173a6c43-357f-4454-99da-7ff1ee33ca86 | [[Digital Wallet Taxonomy]] | 2026-10-12 | 2026-10-12 | That's a really important behavioral distinction that sharpens the taxonomy. And it actually gives |
+| Real - Green Dot contract | local_a416a157-80dc-409b-b4f3-46c6b6161dfd | [[REAL Program Agreement Review]] | 2026-10-12 | 2026-10-12 | Yes — the second search was org-wide (no space filter). The CQL query I used was: |
+| Retailer wallet engagement segmentation | local_f2e6bb0a-0125-41b6-a5bd-88348adea60e | [[Retailer Wallet Engagement Segmentation]] | 2026-10-12 | 2026-10-12 | Five research streams plus the offsite transcript. The headline: **your ladder should become two axes, and the t |
+| Platform rewards and loyalty capabilities | local_2efc3b6a-cc74-4031-a0b3-8855024522a7 | [[BaaS Rewards and Loyalty Capabilities]] | 2026-10-12 | 2026-10-12 | Here's an honest read on the Kard status based on what the documentation shows: |
