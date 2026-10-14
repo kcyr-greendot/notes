@@ -6,6 +6,7 @@
 - [ ] incorporate full workflow - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
 - [ ] SOW skill - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
 - [ ] Create Solution Guide for Q2 - [Q2](obsidian://open?vault=notes&file=Partner%20Opportunities%2FQ2) - 9/25/2026
+- [ ] Review "Discovery" and "Parking Lot" items on Taylor's Product Strategy dog & produce assessment for Renata/Chris/Crystal - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 10/13/2026
 
 
 

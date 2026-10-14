@@ -1,3 +1,11 @@
+**October 13, 2026**
+[Shannon, Taylor, Renata, Justin, Adriana, Crystal]
+
+- Dave wants an Agentic Commerce Strategy - can we tie this to that???
+- Toast is our "guinea pig"
+- [Business Case Review](https://greendot365-my.sharepoint.com/:p:/r/personal/syonai_greendotcorp_com/_layouts/15/Doc.aspx?sourcedoc=%7B8392420E-5D47-4B02-B4D5-4801F1B8086A%7D&file=Business%20Case%20Summary%20-%20Dynamic%20Spend%20Controls.pptx&action=edit&mobileredirect=true)
+- Renata: we're all convinced we need to do this 
+
 **October 08, 2026**
 [Shannon, Taylor, Adriana]
 
