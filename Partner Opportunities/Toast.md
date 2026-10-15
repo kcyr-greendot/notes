@@ -1,3 +1,15 @@
+**October 14, 2026**
+Toast: Fergal, Luis
+Green Dot: Adriana 
+
+- Toast's finance team reviewed the commercial model for new program 
+- concern about the possibility of customer confusion with closed loop product (how does customer know restaurant is a Toast restaurant?)
+- open loop economics - Toast wants to negotiate better rates on per-active user fees 
+- if you went with prepaid card - what features are you interested in?
+	- probably just funds in via debit card
+	- my recommendation is that they probably want to support funds out just in case
+	- ok with KYC requirement implications 
+
 **September 23, 2026**
 Toast: Fergal, Luis
 Green Dot: Shannon
