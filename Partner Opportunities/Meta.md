@@ -1,8 +1,17 @@
+**October 15, 2026**
+[Michael, Ray, Taylor]
+
+- Taylor's question to Michael - has Engineering talked about Agentic implications for Green Dot yet? 
+	- not much
+- Michael reviewed RFP doc
+- can we allow the Meta user to move funds from their account to an external account as a disbursement w/o triggering CIP? 
+- 
+
 **October 12, 2026**
 [Frank, Ray, Taylor]
 
 - RFP due on 10/20 
-- 
+
 
 
 

@@ -1,12 +1,14 @@
 ### Open Items
 - [ ] I will share a sample Payload call for an Auth request - [Q2](obsidian://open?vault=notes&file=Partner%20Opportunities%2FQ2) - 9/25/2026
-- [ ] run through Taylor feedback on Retailer cheat sheet doc - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
-- [ ] what's the desired end state - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
+- [x] run through Taylor feedback on Retailer cheat sheet doc - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
+- [x] what's the desired end state - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
 - [ ] create collateral for this offering - use Disbursements sell sheet as a model - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 9/25/2026
 - [ ] incorporate full workflow - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
-- [ ] SOW skill - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
+- [x] SOW skill - [PSE Opportunity Manager](obsidian://open?vault=notes&file=Tools%20%26%20Process%2FPSE%20Opportunity%20Manager) - 9/25/2026
 - [ ] Create Solution Guide for Q2 - [Q2](obsidian://open?vault=notes&file=Partner%20Opportunities%2FQ2) - 9/25/2026
-- [ ] Review "Discovery" and "Parking Lot" items on Taylor's Product Strategy dog & produce assessment for Renata/Chris/Crystal - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 10/13/2026
+- [ ] Review "Discovery" and "Parking Lot" items on Taylor's Product Strategy doc & produce assessment for Renata/Chris/Crystal - [Taylor](obsidian://open?vault=notes&file=People%2FTaylor) - 10/13/2026
+- [ ] UX samples of G2B to Credit Sesame - 10/15/2026
+- [ ] Respond to Chris from CSC - 10/15/2026
 
 
 
