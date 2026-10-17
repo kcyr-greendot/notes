@@ -1,3 +1,11 @@
+**October 16, 2026** - SOW Review
+Real: Kate, Dave, Vab
+Green Dot: Ray, Paul
+
+- Kate: some of our users may be businesses 
+	- 90% will be consumers; 10% will be business accounts
+	- 
+
 **October 09, 2026**
 Real: Kate, Dave, Vab 
 Green Dot: Ray, Paul

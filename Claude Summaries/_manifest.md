@@ -8,7 +8,7 @@ Threads that are backed up. The weekly backup job folds any new activity in thes
 
 | Title | Session ID | Summary note | First backed up | Last synced | Last message marker |
 |---|---|---|---|---|---|
-| Agentic control plane concept | local_6db5b35d-a12c-4c0b-92c1-05c402e73a1a | [[Agentic Control Plane concept]] | 2026-10-12 | 2026-10-12 | One small point: the partner's business buyer, like a head of product or a GM, may still need a quick translation |
+| Agentic control plane concept | local_6db5b35d-a12c-4c0b-92c1-05c402e73a1a | [[Agentic Control Plane concept]] | 2026-10-12 | 2026-10-16 | Yes. The deck doesn't change the core concept, but it sharpens the Visa side and gives us a ready-mad |
 | Multi-vendor payment systems reaction | local_4abfc14a-bb96-4207-bb59-b96f7209a698 | [[Marqeta Multi-Vendor Report Reaction]] | 2026-10-12 | 2026-10-12 | It's funny, but read past the headline and the report mostly supports your thesis. That makes it a us |
 | ACH and Direct Deposit in KYC-exempt prepaid | local_e0a7777a-1e5c-4e6c-9f04-2aac8ebe4165 | [[ACH and Direct Deposit in KYC-Exempt Prepaid]] | 2026-10-12 | 2026-10-12 | I could only partly verify Sarah's claim. Dayforce has a reduced-KYC product, but it isn't a KYC-exem |
 | Customer spend data sharing considerations | local_ab4504c2-4fd1-432c-85f5-9fa59c9d0039 | [[Customer Spend Data Sharing with Partners]] | 2026-10-12 | 2026-10-12 | This scenario fits the "share the result, not the data" pattern well. Here's how it applies to the RE |
@@ -41,3 +41,6 @@ Threads that are backed up. The weekly backup job folds any new activity in thes
 | Real - Green Dot contract | local_a416a157-80dc-409b-b4f3-46c6b6161dfd | [[REAL Program Agreement Review]] | 2026-10-12 | 2026-10-12 | Yes — the second search was org-wide (no space filter). The CQL query I used was: |
 | Retailer wallet engagement segmentation | local_f2e6bb0a-0125-41b6-a5bd-88348adea60e | [[Retailer Wallet Engagement Segmentation]] | 2026-10-12 | 2026-10-12 | Five research streams plus the offsite transcript. The headline: **your ladder should become two axes, and the t |
 | Platform rewards and loyalty capabilities | local_2efc3b6a-cc74-4031-a0b3-8855024522a7 | [[BaaS Rewards and Loyalty Capabilities]] | 2026-10-12 | 2026-10-12 | Here's an honest read on the Kard status based on what the documentation shows: |
+| 2026 career goals and OKRs | local_fcdd69c2-f341-4f35-8c1b-52645b63cced | [[2026 PSE OKRs H1 Review and H2 Plan]] | 2026-10-16 | 2026-10-16 | Updated. Anything else, or are we done? |
+| Retail embedded finance offsite summary | local_3c43ba75-b5f9-4afd-afc2-9435a293e2d8 | [[Retail Embedded Finance Offsite Takeaways]] | 2026-10-16 | 2026-10-16 | Good set of ideas. Let me sort through them and then work the challenges. --- ## How the Three Ideas Stack |
+| Target Red Card history | local_a5c2a340-a475-4f13-a42c-43d4c3beee0c | [[Target RedCard History]] | 2026-10-16 | 2026-10-16 | Target built the Target RedCard themselves — it's a proprietary store card program issued directly by Targe |

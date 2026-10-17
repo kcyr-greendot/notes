@@ -1,3 +1,12 @@
+**October 16, 2026**
+
+- 75% card/25% cash & coin
+- 1.5M - 1.75M MAU
+- $9M monthly wallet loads
+- Payrange is current wallet provider - Fiserv MID
+- QR code - primarily for users who don't want the app
+- 
+
 **September 23, 2026**
 [Shane, Willis]
 

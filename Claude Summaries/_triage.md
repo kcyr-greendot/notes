@@ -14,12 +14,12 @@ Threads pending 21+ days (may be deleted before the next run):
 
 ## Waiting for a decision
 
-Last refreshed: 2026-10-12
+Last refreshed: 2026-10-16
 
-Rows marked B below were approved but not yet backed up (this run's summarizer was blocked); the next run will create them.
-
-| Decision | Title                                         | What it's about                                                                   | First seen | Days pending | Session ID                                 |
-| -------- | --------------------------------------------- | --------------------------------------------------------------------------------- | ---------- | ------------ | ------------------------------------------ |
-| B        | 2026 career goals and OKRs                    | Reviewing H1 2026 OKRs and drafting H2 OKRs for PSE                               | 2026-10-12 | 0            | local_fcdd69c2-f341-4f35-8c1b-52645b63cced |
-| B        | Retail embedded finance offsite summary       | Offsite transcript summary: retail embedded finance PSE positioning takeaways     | 2026-10-12 | 0            | local_3c43ba75-b5f9-4afd-afc2-9435a293e2d8 |
-| B        | Target Red Card history                       | Who built and issues the Target RedCard                                           | 2026-10-12 | 0            | local_a5c2a340-a475-4f13-a42c-43d4c3beee0c |
+| Decision | Title | What it's about | First seen | Days pending | Session ID |
+|---|---|---|---|---|---|
+|  | Whale prospect and platform enhancement | Review Taylor's whale-prospect deck and product strategy ideas spreadsheet | 2026-10-16 | 0 | local_e3905402-a62f-4463-bea8-8f863159c9d9 |
+|  | META RFI responses review | Evaluate first-pass META stored value RFI responses for adequacy and fit | 2026-10-16 | 0 | local_be1dcfc4-6c50-436e-bd96-16bfa36dc92f |
+|  | Money 2020 itinerary | Build Money20/20 itinerary from emails, calendar, and documents | 2026-10-16 | 0 | local_31c8fef5-2652-4bbd-beb5-4665c28f3ca5 |
+|  | PRM fraud monitoring | Explain ACI PRM's role in fraud monitoring | 2026-10-16 | 0 | local_22baeafc-5934-47ba-a22f-3dbae346c960 |
+|  | Toast credit card funding | Confirm whether Toast Cash accepts credit cards as funding | 2026-10-16 | 0 | local_0d0fd96a-44cf-4eee-8bc6-5a3cebd39388 |
